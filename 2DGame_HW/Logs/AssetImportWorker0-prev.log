@@ -1,0 +1,2456 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'zh' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity2020HC\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Desktop/HC/Unity/Unity_HC_TC_210703_2DGame_HW/2DGame_HW
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65182
+Successfully changed project path to: C:/Users/user/Desktop/HC/Unity/Unity_HC_TC_210703_2DGame_HW/2DGame_HW
+C:/Users/user/Desktop/HC/Unity/Unity_HC_TC_210703_2DGame_HW/2DGame_HW
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 112.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity2020HC/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/HC/Unity/Unity_HC_TC_210703_2DGame_HW/2DGame_HW/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.6663
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity2020HC/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity2020HC/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity2020HC/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56248
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity2020HC/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007151 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.804 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.023020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.837 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 4.310800 ms (FindLiveObjects: 0.323500 ms CreateObjectMapping: 0.166600 ms MarkObjects: 3.588000 ms  DeleteObjects: 0.230500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Pixel Art Platformer - Village Props
+  artifactKey: Guid(11a5da0bf4784b349b545263827641e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props using Guid(11a5da0bf4784b349b545263827641e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb5b978b59fb2838f61b903866c35a2') in 0.016592 seconds 
+  Import took 0.023594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Particle Flame.png
+  artifactKey: Guid(cfcfd3af954eeb54cb041fe6d75a983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Particle Flame.png using Guid(cfcfd3af954eeb54cb041fe6d75a983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e8cbfd73e5a2118f525430884e0f6a') in 0.265062 seconds 
+  Import took 0.271758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground.png
+  artifactKey: Guid(bb35af95735851440927571ef230221b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground.png using Guid(bb35af95735851440927571ef230221b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bf6ec0aedb9abab7e45d212576349f') in 0.146199 seconds 
+  Import took 0.153604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture
+  artifactKey: Guid(4fb7661537e28884697bca33184bdaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture using Guid(4fb7661537e28884697bca33184bdaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49218b2e2a296db1cad4179661b2a9fb') in 0.010059 seconds 
+  Import took 0.017124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cc88e7b96dba3061613b8edffff650') in 0.774674 seconds 
+  Import took 0.790374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Background Grid.png
+  artifactKey: Guid(4525736a9d0538940bce8f13f1227b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Background Grid.png using Guid(4525736a9d0538940bce8f13f1227b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1356049b4987f1ab94b0ca3938456c5') in 0.028669 seconds 
+  Import took 0.036815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground Darken.png
+  artifactKey: Guid(157cbc340d2b7e64ab85168e80e95550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground Darken.png using Guid(157cbc340d2b7e64ab85168e80e95550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2fab95ad34d74c9a64aeb484c286e1') in 0.147879 seconds 
+  Import took 0.156768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.835358 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Anvil.asset
+  artifactKey: Guid(4e36daf671b4aff4d972241f0f4b21e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Anvil.asset using Guid(4e36daf671b4aff4d972241f0f4b21e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f54e1c48cf0611c0f79a750d35004d') in 0.427551 seconds 
+  Import took 0.435733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Axe.asset
+  artifactKey: Guid(b61b97a9dc51fc24eb9a86fe7af7832e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Axe.asset using Guid(b61b97a9dc51fc24eb9a86fe7af7832e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d82a4d74c186c3bca2744e32b1631d1') in 0.027463 seconds 
+  Import took 0.036257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Archert Target.asset
+  artifactKey: Guid(6d1f0fb384fc13e41bb3f87bc9c8d2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Archert Target.asset using Guid(6d1f0fb384fc13e41bb3f87bc9c8d2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7f1b24ed979f950999f7d8b69424fc') in 0.026836 seconds 
+  Import took 0.037310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props B.asset
+  artifactKey: Guid(dfc775c445262db4797177809aab997a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props B.asset using Guid(dfc775c445262db4797177809aab997a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3058d0983f98e9f243202892434e97') in 0.027779 seconds 
+  Import took 0.040541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Arrow Hit.asset
+  artifactKey: Guid(6376bc51c41a1524db11e1d657e119cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Arrow Hit.asset using Guid(6376bc51c41a1524db11e1d657e119cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976266e81fd265046956189f21071e69') in 0.024190 seconds 
+  Import took 0.034147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Apple.asset
+  artifactKey: Guid(543cf208ab26f55498deba74e4636a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Apple.asset using Guid(543cf208ab26f55498deba74e4636a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4c3e6c54c0013dbb29eacbd35a44e3') in 0.024666 seconds 
+  Import took 0.032513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Arrow.asset
+  artifactKey: Guid(381e01e55a7b38e42a154975de9db914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Arrow.asset using Guid(381e01e55a7b38e42a154975de9db914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aab9ffd4b3d542eda9d08d099fb6c91') in 0.026043 seconds 
+  Import took 0.034259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.096016 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat D.asset
+  artifactKey: Guid(b085c4ab901f73b469bea58224c249ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat D.asset using Guid(b085c4ab901f73b469bea58224c249ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73338947d7b9b181a423a2309424c18d') in 0.022687 seconds 
+  Import took 0.029317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheelbarrow Wheel.asset
+  artifactKey: Guid(b640da749f1f12c43b59c4d7576b23d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheelbarrow Wheel.asset using Guid(b640da749f1f12c43b59c4d7576b23d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23be6fb623e0d599a84836343f991df') in 0.021161 seconds 
+  Import took 0.029060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheelbarrow.asset
+  artifactKey: Guid(cbe06890fc03d21499e892019f2eff14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheelbarrow.asset using Guid(cbe06890fc03d21499e892019f2eff14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466f2d2126bfc41062caaad5f7f23f63') in 0.023289 seconds 
+  Import took 0.030524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat E.asset
+  artifactKey: Guid(a5ade5c779dfeb3439f991e88f73d3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat E.asset using Guid(a5ade5c779dfeb3439f991e88f73d3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed8098252e6f99ed5e631a2bb2351ae') in 0.024089 seconds 
+  Import took 0.034361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wood Logs.asset
+  artifactKey: Guid(57195b83bfc03c84b9b2487cd0ac7fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wood Logs.asset using Guid(57195b83bfc03c84b9b2487cd0ac7fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86b98020349af901f2e871c17a215c8') in 0.024266 seconds 
+  Import took 0.032127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wine Bottle.asset
+  artifactKey: Guid(fe622078d76c83444a237448e6d43e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wine Bottle.asset using Guid(fe622078d76c83444a237448e6d43e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3c300195e54d8d2d9ae5cbd664e337') in 0.020472 seconds 
+  Import took 0.027526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props White Bottle.asset
+  artifactKey: Guid(80d8fe666e646f84eb053f0898030604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props White Bottle.asset using Guid(80d8fe666e646f84eb053f0898030604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5559659c7e58ce255496b72a52153b8b') in 0.023428 seconds 
+  Import took 0.032089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.203972 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat B.asset
+  artifactKey: Guid(e1275f9c30e9a2d4aa707d4d6cf52a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat B.asset using Guid(e1275f9c30e9a2d4aa707d4d6cf52a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5281ae0aa887b4e113fcbb0e0a5849') in 0.021140 seconds 
+  Import took 0.028096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat C.asset
+  artifactKey: Guid(ff0c5619f2c5c2f45a711e009813e6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat C.asset using Guid(ff0c5619f2c5c2f45a711e009813e6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebfab3114123dc16e3e280a1d7e6459c') in 0.019929 seconds 
+  Import took 0.026915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019687 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Tree B.asset
+  artifactKey: Guid(cdacac65fcb466846b67685d1a180dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Tree B.asset using Guid(cdacac65fcb466846b67685d1a180dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae6e101db11336e6503321420bd22bb') in 0.025560 seconds 
+  Import took 0.032923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat A.asset
+  artifactKey: Guid(a8b2286f39a969d4d9540f25c01b7f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Wheat A.asset using Guid(a8b2286f39a969d4d9540f25c01b7f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7837a1008508eed44c3749b716e86c') in 0.027100 seconds 
+  Import took 0.034784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Weapon Rack.asset
+  artifactKey: Guid(3942d2237f7e55d498e2d1615533baf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Weapon Rack.asset using Guid(3942d2237f7e55d498e2d1615533baf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ef0384082a137e3b85b547a2338604') in 0.162560 seconds 
+  Import took 0.172384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000591 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Well.asset
+  artifactKey: Guid(a6e8fd51d6994dc4588e4e1529af0f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Well.asset using Guid(a6e8fd51d6994dc4588e4e1529af0f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2519bddfd3c67747e9e61aa33ec411d') in 0.024984 seconds 
+  Import took 0.032535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Table.asset
+  artifactKey: Guid(280227f6113d2d14288c360053d4628b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Table.asset using Guid(280227f6113d2d14288c360053d4628b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168ec913b999d882500d1f3ac060c8e0') in 0.021556 seconds 
+  Import took 0.030878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000823 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Training Dummy.asset
+  artifactKey: Guid(5401595ef120df342a1e00a3a53a6587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Training Dummy.asset using Guid(5401595ef120df342a1e00a3a53a6587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b262471a4d472e5cfd80e7ba6495cacd') in 0.025576 seconds 
+  Import took 0.036405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Torch.asset
+  artifactKey: Guid(f829884e96d1656418f829cdbc53ec25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Torch.asset using Guid(f829884e96d1656418f829cdbc53ec25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd7d1eff08749ae9a5f03206e5e143c') in 0.023390 seconds 
+  Import took 0.033633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000672 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Tree A.asset
+  artifactKey: Guid(98f7a1b61067168458a9b8851ce2cc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Tree A.asset using Guid(98f7a1b61067168458a9b8851ce2cc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26281c84405af1a5837e86716acbf9ed') in 0.048282 seconds 
+  Import took 0.066372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038974 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Statue.asset
+  artifactKey: Guid(093155bade153254eb7ca7adf9a642ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Statue.asset using Guid(093155bade153254eb7ca7adf9a642ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db995dc87739a6987c507cc701198f3c') in 0.029956 seconds 
+  Import took 0.042925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sunflower B.asset
+  artifactKey: Guid(c837ac29617201946b3047f97461953b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sunflower B.asset using Guid(c837ac29617201946b3047f97461953b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1894464a3cefc823abe65521b094049') in 0.028846 seconds 
+  Import took 0.038526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stump.asset
+  artifactKey: Guid(93b868a9fb347634ea31af95c4b2da9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stump.asset using Guid(93b868a9fb347634ea31af95c4b2da9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8526301660a6dfa6607c4004fc1f9288') in 0.028564 seconds 
+  Import took 0.040461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sword.asset
+  artifactKey: Guid(9893590d9fbda2643a08ffa77f4296cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sword.asset using Guid(9893590d9fbda2643a08ffa77f4296cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb824ca17e13320b3ba6f782f86c144') in 0.026929 seconds 
+  Import took 0.034742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sunflower A.asset
+  artifactKey: Guid(6a717c77dcf60144e8c3ec9add3e7fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sunflower A.asset using Guid(6a717c77dcf60144e8c3ec9add3e7fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f45b3d12d60ce181bf084c67fc4ac55') in 0.024282 seconds 
+  Import took 0.033012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sunflower C.asset
+  artifactKey: Guid(354ee5aa7eb77a94bbaef19163d93f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Sunflower C.asset using Guid(354ee5aa7eb77a94bbaef19163d93f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bec589cbe2861dad946738d09d9dac') in 0.026516 seconds 
+  Import took 0.036704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Statue Bouquet.asset
+  artifactKey: Guid(9375ee7c06a417f4294f7998f65a7036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Statue Bouquet.asset using Guid(9375ee7c06a417f4294f7998f65a7036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6620e524143fcc49947b94a59eb53130') in 0.022953 seconds 
+  Import took 0.032183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Table.asset
+  artifactKey: Guid(474f8cf24921e0b4fa69dd2683d9c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Table.asset using Guid(474f8cf24921e0b4fa69dd2683d9c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0111d12281af81261538ea56b2aa91') in 0.022501 seconds 
+  Import took 0.031046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Tent Pillar.asset
+  artifactKey: Guid(9ae13e94ef44c8e4184adcc745fd90b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Tent Pillar.asset using Guid(9ae13e94ef44c8e4184adcc745fd90b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f49196e36e2d73344d1f0b1135d63f0') in 0.023881 seconds 
+  Import took 0.031097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit B.asset
+  artifactKey: Guid(7e9d95592b01e714980646757cd43620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit B.asset using Guid(7e9d95592b01e714980646757cd43620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e1b8f144c4ab15cf34c80dcec56632') in 0.024388 seconds 
+  Import took 0.031480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit D.asset
+  artifactKey: Guid(2c650f4debe87884186699d403f1b486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit D.asset using Guid(2c650f4debe87884186699d403f1b486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abbd8b54db7cb04a5387442b1b69eb0') in 0.028423 seconds 
+  Import took 0.036517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Tent.asset
+  artifactKey: Guid(22be9365d5b20b24d9eee59cff4ca882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Tent.asset using Guid(22be9365d5b20b24d9eee59cff4ca882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61f94782dc2d4fe38acdc1e421c1808') in 0.025679 seconds 
+  Import took 0.032754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit A.asset
+  artifactKey: Guid(9fbeb1cf42d8fc24783bbee30f1f9bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit A.asset using Guid(9fbeb1cf42d8fc24783bbee30f1f9bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91507069f402ca7b5008e7b1418445aa') in 0.022736 seconds 
+  Import took 0.032367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000829 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit C.asset
+  artifactKey: Guid(d3f47b248b7da8d479d16563026beb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Stall Fruit C.asset using Guid(d3f47b248b7da8d479d16563026beb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f619254ded6b80be6ee1250a3f624c43') in 0.021118 seconds 
+  Import took 0.031103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Scarecrow.asset
+  artifactKey: Guid(e7350c68d46bb93429f05b75c900705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Scarecrow.asset using Guid(e7350c68d46bb93429f05b75c900705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0879b4a1d6cb542ab81db281fafd47f9') in 0.024482 seconds 
+  Import took 0.031823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Spike Ball.asset
+  artifactKey: Guid(435241a142f4bf14b84ea1edc70cccb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Spike Ball.asset using Guid(435241a142f4bf14b84ea1edc70cccb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c89e0c306553538e9d4ff68e9f5a16f') in 0.022075 seconds 
+  Import took 0.032269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Spike.asset
+  artifactKey: Guid(a27fcbe229d765147a2246138d96d646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Spike.asset using Guid(a27fcbe229d765147a2246138d96d646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d06310c26c2fdd98cf407fd9f5cb2a6') in 0.022977 seconds 
+  Import took 0.029996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Spear.asset
+  artifactKey: Guid(8d085271605a72d4cb5b04a4e0ac4a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Spear.asset using Guid(8d085271605a72d4cb5b04a4e0ac4a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6259bc928477f87de725f6695902ad1') in 0.020678 seconds 
+  Import took 0.028466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075239 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign Text A.asset
+  artifactKey: Guid(c177f99da85bdb545b45c679a1626676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign Text A.asset using Guid(c177f99da85bdb545b45c679a1626676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d8f3ef993592616b62c8c1b34a9b81') in 0.039353 seconds 
+  Import took 0.053220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign Text B.asset
+  artifactKey: Guid(d92e9f53825e96c47914d933fc469893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign Text B.asset using Guid(d92e9f53825e96c47914d933fc469893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67e95150a182a2c7feeac0dcde48eea') in 0.024518 seconds 
+  Import took 0.034688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign Text C.asset
+  artifactKey: Guid(c13888161b5d88c4b8a97d229d49badd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign Text C.asset using Guid(c13888161b5d88c4b8a97d229d49badd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e315b3ee32f7db8b3cddca558d390ae') in 0.025378 seconds 
+  Import took 0.036396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Rock C.asset
+  artifactKey: Guid(9b22a272559bd4545925ed154f7d1491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Rock C.asset using Guid(9b22a272559bd4545925ed154f7d1491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ada6403e52f3b145c0aa99146924a45') in 0.025624 seconds 
+  Import took 0.035224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Rock B.asset
+  artifactKey: Guid(d40d539aa8db9c94693cb3fae40379b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Rock B.asset using Guid(d40d539aa8db9c94693cb3fae40379b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8254f9f5a10ef7c8ee15182aad16159e') in 0.020806 seconds 
+  Import took 0.029975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign B.asset
+  artifactKey: Guid(36ff21ac2db6b084c8b56b60935d4629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign B.asset using Guid(36ff21ac2db6b084c8b56b60935d4629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a769bba37f52efb5fb5935c03c9d38') in 0.023074 seconds 
+  Import took 0.032210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign A.asset
+  artifactKey: Guid(333aeef9478452b48a910853dec49f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Sign A.asset using Guid(333aeef9478452b48a910853dec49f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d2418f360357587813b163d18186a0') in 0.023722 seconds 
+  Import took 0.032557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Lamp.asset
+  artifactKey: Guid(45c254ac0bff2cd42bb4b73839591f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Lamp.asset using Guid(45c254ac0bff2cd42bb4b73839591f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e746509e52da6fff9bff43269c1bef0') in 0.023577 seconds 
+  Import took 0.031857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Lamp Light On.asset
+  artifactKey: Guid(2687c39f5c57a0f42a837bd867028f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Lamp Light On.asset using Guid(2687c39f5c57a0f42a837bd867028f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dfdcfefd571243530a87656e151e76') in 0.023472 seconds 
+  Import took 0.033552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Rock A.asset
+  artifactKey: Guid(c18dc3c053522614fb0792e221faf4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Rock A.asset using Guid(c18dc3c053522614fb0792e221faf4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9437db79de19f2d90a6ecdfd7de6175') in 0.022781 seconds 
+  Import took 0.032421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024786 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pot C.asset
+  artifactKey: Guid(b4619bbfbda7bb04d987dec7e9d4573c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pot C.asset using Guid(b4619bbfbda7bb04d987dec7e9d4573c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23e4d32af93d8d8aae3024f618ad3b5') in 0.019447 seconds 
+  Import took 0.026835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pumpkin A.asset
+  artifactKey: Guid(cc675b40d5e11b94fa0658d5f9926f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pumpkin A.asset using Guid(cc675b40d5e11b94fa0658d5f9926f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb34abbb0579d789441752aeed1c606') in 0.020675 seconds 
+  Import took 0.027570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pumpkin B.asset
+  artifactKey: Guid(9ce8c7dfbe6cc1040b985f74ad2264c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pumpkin B.asset using Guid(9ce8c7dfbe6cc1040b985f74ad2264c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd897b383f8a460668631b6eeed3eb611') in 0.021307 seconds 
+  Import took 0.030414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pot B.asset
+  artifactKey: Guid(92525469f250c734bacb9039e43b32e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pot B.asset using Guid(92525469f250c734bacb9039e43b32e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f126824042cb4cb1a3dfdd5f747120e') in 0.031398 seconds 
+  Import took 0.039417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pot A.asset
+  artifactKey: Guid(cd8a12fe73d71e640821c27b2c33f69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Pot A.asset using Guid(cd8a12fe73d71e640821c27b2c33f69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1144943f717b0b5abc8eb097ee4066a7') in 0.020912 seconds 
+  Import took 0.027637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform W.asset
+  artifactKey: Guid(d09bc0defe28c1346a1ed39c7b8db9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform W.asset using Guid(d09bc0defe28c1346a1ed39c7b8db9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c63b86b9a0ac1f3d4627ce96ec0caf9') in 0.021028 seconds 
+  Import took 0.028681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Lamp Light Off.asset
+  artifactKey: Guid(931d8b3c24a7cb2499eb9630102e7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Road Lamp Light Off.asset using Guid(931d8b3c24a7cb2499eb9630102e7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1713e15277f0644e296454b1b446288c') in 0.022278 seconds 
+  Import took 0.030437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform S.asset
+  artifactKey: Guid(690ec0f6dad7d5f46aee168dc7a81d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform S.asset using Guid(690ec0f6dad7d5f46aee168dc7a81d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e59caa06d9385a2a4a91c6586a4aac93') in 0.019926 seconds 
+  Import took 0.027322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038448 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Log Bench.asset
+  artifactKey: Guid(351766f9cfbe1f44a8786194b8f8ffea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Log Bench.asset using Guid(351766f9cfbe1f44a8786194b8f8ffea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f79edf572df86a65d87fe90c71319254') in 0.021709 seconds 
+  Import took 0.028784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform M.asset
+  artifactKey: Guid(92c04c0a8a7a0e445a5f4a14f168c5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform M.asset using Guid(92c04c0a8a7a0e445a5f4a14f168c5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863dd04bc453cbe1c8f1e3d0bfeada6e') in 0.021148 seconds 
+  Import took 0.028802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform L.asset
+  artifactKey: Guid(00bc6974d2ebdea458c59e6ea4b3fe09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform L.asset using Guid(00bc6974d2ebdea458c59e6ea4b3fe09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77de856c15b7b4ec67a64278ac4b1483') in 0.020334 seconds 
+  Import took 0.027330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform R.asset
+  artifactKey: Guid(167487d5e494ab743bf91b73db1d0a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Platform R.asset using Guid(167487d5e494ab743bf91b73db1d0a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cafba0046b7c6d83e80c37ccb48f8c9') in 0.025607 seconds 
+  Import took 0.033959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111669 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Heavy Sword.asset
+  artifactKey: Guid(f9bf38fa78791ec40aec13bbc808b135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Heavy Sword.asset using Guid(f9bf38fa78791ec40aec13bbc808b135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9668e9ca0193bd5642c4b9ee4d399d') in 0.021724 seconds 
+  Import took 0.028605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Kettle.asset
+  artifactKey: Guid(9077964f36b574f4ba0fc4ab27ac67f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Kettle.asset using Guid(9077964f36b574f4ba0fc4ab27ac67f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfdaba7487c6cf8f97f448ca68ef2f7') in 0.022265 seconds 
+  Import took 0.029849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Ladder M.asset
+  artifactKey: Guid(4656650f24f2b314fb49ff915ff6ef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Ladder M.asset using Guid(4656650f24f2b314fb49ff915ff6ef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8c78228bda573c48848733e2405ff9') in 0.021780 seconds 
+  Import took 0.028804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hay Fork.asset
+  artifactKey: Guid(2ff4ff3248cac4f4186a453b1cbf9fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hay Fork.asset using Guid(2ff4ff3248cac4f4186a453b1cbf9fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c78fd57531be8f6937f09fd8439abc8') in 0.021767 seconds 
+  Import took 0.029778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hay Pile.asset
+  artifactKey: Guid(038f12df957cc26478bacb3d1849eab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hay Pile.asset using Guid(038f12df957cc26478bacb3d1849eab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834f985ad028ba6f7130c212a6588d52') in 0.025866 seconds 
+  Import took 0.033080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Ladder T.asset
+  artifactKey: Guid(374435fefd88f824abaa9fad7682c6e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Ladder T.asset using Guid(374435fefd88f824abaa9fad7682c6e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4e9a54b93196416a223d1af7541e5e') in 0.021602 seconds 
+  Import took 0.030056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032540 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gunny Bag B.asset
+  artifactKey: Guid(6025940058f6304499e54f05f141a7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gunny Bag B.asset using Guid(6025940058f6304499e54f05f141a7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14e08be05b66f9d7acf13afc965fa0a') in 0.020726 seconds 
+  Import took 0.027864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hanging Bag.asset
+  artifactKey: Guid(0ea7cdbefa3249246be2f6ac4affcf98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hanging Bag.asset using Guid(0ea7cdbefa3249246be2f6ac4affcf98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1623522d96ab27e4cfd6b1a030ae92') in 0.020602 seconds 
+  Import took 0.032131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hay Bale.asset
+  artifactKey: Guid(4709f27afcc6957468e5cc16068413ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hay Bale.asset using Guid(4709f27afcc6957468e5cc16068413ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4110478c165bf227c5286b5e9428d3cc') in 0.019815 seconds 
+  Import took 0.028976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hammer.asset
+  artifactKey: Guid(28febe1d34ff30545b9c0c8ebb55b4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Hammer.asset using Guid(28febe1d34ff30545b9c0c8ebb55b4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c97ecc7bd9a86bc1e8b60ada9bfe8ca') in 0.021087 seconds 
+  Import took 0.029067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128414 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass F.asset
+  artifactKey: Guid(a4f24d2f4ebfdfb4e8bc680c00b51e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass F.asset using Guid(a4f24d2f4ebfdfb4e8bc680c00b51e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377e3cdbb9618f98676a90a2c4ebf72a') in 0.022208 seconds 
+  Import took 0.028647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gunny Bag A.asset
+  artifactKey: Guid(3b2235abe6514c945b4dc103fc80e094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gunny Bag A.asset using Guid(3b2235abe6514c945b4dc103fc80e094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72713521c1ba7a5f5897d03452293b8') in 0.021214 seconds 
+  Import took 0.027941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone D.asset
+  artifactKey: Guid(959199a06308b744e93c16b20d432da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone D.asset using Guid(959199a06308b744e93c16b20d432da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2d6f6a33642fa0750b9934b2a7cfef') in 0.020744 seconds 
+  Import took 0.028529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone B.asset
+  artifactKey: Guid(b0c423b4c32cecc47aa2e53c403a621d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone B.asset using Guid(b0c423b4c32cecc47aa2e53c403a621d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78b1ea2c43a63c03bbc49739482a929') in 0.021046 seconds 
+  Import took 0.028736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone C.asset
+  artifactKey: Guid(9ae1647635658e843ad1452f0eb76be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone C.asset using Guid(9ae1647635658e843ad1452f0eb76be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3732ec94fff1c4f4b2c64ad5fe4fbf2') in 0.021496 seconds 
+  Import took 0.028326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone A.asset
+  artifactKey: Guid(0de9c00bf8f2c1c468c0b6f2c70e0f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Gravestone A.asset using Guid(0de9c00bf8f2c1c468c0b6f2c70e0f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952ab1126af7d87c660c5f0aded8c280') in 0.021519 seconds 
+  Import took 0.029410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077173 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass B.asset
+  artifactKey: Guid(b31cf63b8abb7764ca41f13b782f8a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass B.asset using Guid(b31cf63b8abb7764ca41f13b782f8a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2b572298541d116a17030b7774e760') in 0.022095 seconds 
+  Import took 0.029899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass E.asset
+  artifactKey: Guid(a962e687bf7ee25479e0b0debe5ee170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass E.asset using Guid(a962e687bf7ee25479e0b0debe5ee170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c961d27c5de08ca9d4cd9f28f6984ac') in 0.020107 seconds 
+  Import took 0.027589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass C.asset
+  artifactKey: Guid(eb3a3cb4d4e423844a254e207e03888d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass C.asset using Guid(eb3a3cb4d4e423844a254e207e03888d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0200ee83ba8312edc6d3b88b3c85f311') in 0.022998 seconds 
+  Import took 0.031438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass D.asset
+  artifactKey: Guid(b4c27dcdfeb95674ebb5d1fe4479dd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass D.asset using Guid(b4c27dcdfeb95674ebb5d1fe4479dd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd883af9f859890b04e0e2047ecc2e90') in 0.020635 seconds 
+  Import took 0.028921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118595 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence B Rail.asset
+  artifactKey: Guid(2ad52eba85e63b047920fa62e62e88ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence B Rail.asset using Guid(2ad52eba85e63b047920fa62e62e88ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd932e3ff0a7adc002faa8a6fc8ba18c3') in 0.021890 seconds 
+  Import took 0.029159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Flower A.asset
+  artifactKey: Guid(e6416b522c9ddd14c815571d74d4e8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Flower A.asset using Guid(e6416b522c9ddd14c815571d74d4e8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae2f72f44fd1d4e1612274ec586d08c') in 0.021309 seconds 
+  Import took 0.029888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fire Bowl.asset
+  artifactKey: Guid(2d143b5e6f34cb04e9aa91dfb5dcf25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fire Bowl.asset using Guid(2d143b5e6f34cb04e9aa91dfb5dcf25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f84e214e5e6c1c5102753968feb0241') in 0.023352 seconds 
+  Import took 0.030251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Rail C.asset
+  artifactKey: Guid(6af6a307cccd7eb42bdbc36fd52fd242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Rail C.asset using Guid(6af6a307cccd7eb42bdbc36fd52fd242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9169553d70a613d7a63e924ec11dfab2') in 0.024531 seconds 
+  Import took 0.031118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grain Box.asset
+  artifactKey: Guid(fee91686d3c4e68498a280316f51a61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grain Box.asset using Guid(fee91686d3c4e68498a280316f51a61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35501c381f6d10bfeea0e74f54801b53') in 0.024060 seconds 
+  Import took 0.031106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000744 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Flower B.asset
+  artifactKey: Guid(aed9c1f30cc303d4c95e3317cc7a5135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Flower B.asset using Guid(aed9c1f30cc303d4c95e3317cc7a5135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cb5b0bf85f3f91b84c46b8a38c13cd') in 0.023249 seconds 
+  Import took 0.030772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence B Pillar.asset
+  artifactKey: Guid(7b8030fef5abaee4d8ed1ca3f7ee6ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence B Pillar.asset using Guid(7b8030fef5abaee4d8ed1ca3f7ee6ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465b2fb97e7b16909a9d6e463d002efc') in 0.020612 seconds 
+  Import took 0.027366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass A.asset
+  artifactKey: Guid(1a0ac0b391b19d44c82e43be3a77fc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Grass A.asset using Guid(1a0ac0b391b19d44c82e43be3a77fc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f7064e645a9966251cdcf98460684b') in 0.020415 seconds 
+  Import took 0.027384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Rail A.asset
+  artifactKey: Guid(0322284bc4fed99468fc699379179389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Rail A.asset using Guid(0322284bc4fed99468fc699379179389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2258b368cd827dde81db94fcd86de4') in 0.022795 seconds 
+  Import took 0.029216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Rail B.asset
+  artifactKey: Guid(060e6f6c6a062664a92bd4b4b7fbb66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Rail B.asset using Guid(060e6f6c6a062664a92bd4b4b7fbb66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34e8828b8195a92770e49b46d0e76f2f') in 0.020671 seconds 
+  Import took 0.027941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Pillar C.asset
+  artifactKey: Guid(7ddf983131b85ae47944715d327d032b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Pillar C.asset using Guid(7ddf983131b85ae47944715d327d032b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4691c2e88dfbe3d645f9bcfc55314c48') in 0.020454 seconds 
+  Import took 0.028626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Pillar B.asset
+  artifactKey: Guid(ad6069cd64c8de448b76fbca4fced96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Pillar B.asset using Guid(ad6069cd64c8de448b76fbca4fced96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db5cb00301263896a4f73e6065f20de') in 0.020958 seconds 
+  Import took 0.029071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104445 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Rope B.asset
+  artifactKey: Guid(281bfcc3de6f32e458e2896bc266b769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Rope B.asset using Guid(281bfcc3de6f32e458e2896bc266b769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fd45419104e65f8fab87ea98a8150b') in 0.020566 seconds 
+  Import took 0.027631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Nail.asset
+  artifactKey: Guid(dfdcd32cf2cfdc542ad335c67fa61ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Nail.asset using Guid(dfdcd32cf2cfdc542ad335c67fa61ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b485bb9e1056e7fa1b076aa05c659ac') in 0.020471 seconds 
+  Import took 0.028417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Crate Large.asset
+  artifactKey: Guid(2d23ef418de16864eb225f1163790c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Crate Large.asset using Guid(2d23ef418de16864eb225f1163790c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece69137acdd32711556a26c44cabc60') in 0.024843 seconds 
+  Import took 0.032636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cup.asset
+  artifactKey: Guid(5c76b540d613d27478b596cbb5083a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cup.asset using Guid(5c76b540d613d27478b596cbb5083a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001d845f4fa564f07b927e388325d0a1') in 0.024250 seconds 
+  Import took 0.031569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Pillar A.asset
+  artifactKey: Guid(8aac38611524b0d43ac825016c2ba5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Fence A Pillar A.asset using Guid(8aac38611524b0d43ac825016c2ba5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf1e3be0c46457e163f95024e5fc14b') in 0.021151 seconds 
+  Import took 0.029561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Crate Small.asset
+  artifactKey: Guid(ddad6ff852719fc4ca91a5e6ff31f8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Crate Small.asset using Guid(ddad6ff852719fc4ca91a5e6ff31f8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcd1cd50fde58d740a091ebee011c6d') in 0.023372 seconds 
+  Import took 0.031169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024282 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Clip.asset
+  artifactKey: Guid(fb5abe25e2d35184fab2bc921c0ba026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Clip.asset using Guid(fb5abe25e2d35184fab2bc921c0ba026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44687d0d43080f274758eee2d0b0928') in 0.020583 seconds 
+  Import took 0.027613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Pillar A.asset
+  artifactKey: Guid(5786979e22cf40b4dba79f9f5301cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Pillar A.asset using Guid(5786979e22cf40b4dba79f9f5301cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937b2f9a087cc4c30ef1e573cfeb4c6c') in 0.022023 seconds 
+  Import took 0.029978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Rope A.asset
+  artifactKey: Guid(afd70a691608d594f84f82bfd6f12a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Rope A.asset using Guid(afd70a691608d594f84f82bfd6f12a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e413ab6db943615ce8f5594c3476a02') in 0.020597 seconds 
+  Import took 0.028258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth G.asset
+  artifactKey: Guid(d534437a1160a104d9eb567f767aa8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth G.asset using Guid(d534437a1160a104d9eb567f767aa8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df669a1392969f12cfa553569acb43d') in 0.021207 seconds 
+  Import took 0.028647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Pillar B.asset
+  artifactKey: Guid(61d15621035096443bd5e50da4f78131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Clother Hanger Pillar B.asset using Guid(61d15621035096443bd5e50da4f78131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8044693d20613917bb2b8280f47cbdc') in 0.019333 seconds 
+  Import took 0.027310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth H.asset
+  artifactKey: Guid(de4144e1b6cb99240919cc4d2233426f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth H.asset using Guid(de4144e1b6cb99240919cc4d2233426f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a445afb8ec74955c0c9bcc0381d2dcd') in 0.026305 seconds 
+  Import took 0.036360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.113683 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth C.asset
+  artifactKey: Guid(0bf1677de73be184a9b4f517e0c4fb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth C.asset using Guid(0bf1677de73be184a9b4f517e0c4fb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7795bf0bf4512a87411627f7756161c7') in 0.037017 seconds 
+  Import took 0.049627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth F.asset
+  artifactKey: Guid(7eb7d50b40b04944382b1449b92a8ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth F.asset using Guid(7eb7d50b40b04944382b1449b92a8ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e7731bf5d9fc8be3fe16ac407aa983') in 0.029839 seconds 
+  Import took 0.038942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth D.asset
+  artifactKey: Guid(34b4a28d61b9f864e822586f1b57bee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth D.asset using Guid(34b4a28d61b9f864e822586f1b57bee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9e0236dde7df25567a83c1605792f6') in 0.032068 seconds 
+  Import took 0.043396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth A.asset
+  artifactKey: Guid(93bca35727ec9ab4a8ca9f8120aefc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth A.asset using Guid(93bca35727ec9ab4a8ca9f8120aefc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d0d5a73dfc9585991497d20265dd0c') in 0.024359 seconds 
+  Import took 0.033027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth B.asset
+  artifactKey: Guid(983d207059d0ebf4db781edea1d484c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth B.asset using Guid(983d207059d0ebf4db781edea1d484c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc1841f0cee6521130cca762e2e93c3') in 0.022444 seconds 
+  Import took 0.029180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth E.asset
+  artifactKey: Guid(8af4236bb855ef14fa61001c11ca1156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cloth E.asset using Guid(8af4236bb855ef14fa61001c11ca1156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02fc92a5481e0f619e46718cedd3f6b') in 0.025312 seconds 
+  Import took 0.034421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Chest.asset
+  artifactKey: Guid(4a80bb3cbe81119438e5dc283719324e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Chest.asset using Guid(4a80bb3cbe81119438e5dc283719324e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c02679d766cf7d6e3b85711ead44d8') in 0.024577 seconds 
+  Import took 0.031884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Chair.asset
+  artifactKey: Guid(e261e01ab31c18a44975b2969eceee69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Chair.asset using Guid(e261e01ab31c18a44975b2969eceee69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79a9b6603257987bf575c6342d842a5') in 0.025369 seconds 
+  Import took 0.033877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cauldron.asset
+  artifactKey: Guid(04b5cef1d57256a4795015c69e6f8bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Cauldron.asset using Guid(04b5cef1d57256a4795015c69e6f8bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7a802eff74b1a07fcb7aa2da3c72b6') in 0.023614 seconds 
+  Import took 0.032463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000770 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Chest Opened.asset
+  artifactKey: Guid(fe7db9fece1b0834fae2218d38f310c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Chest Opened.asset using Guid(fe7db9fece1b0834fae2218d38f310c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c356acb8e25841d3164e645e09f6889') in 0.022788 seconds 
+  Import took 0.031425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068612 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bush A.asset
+  artifactKey: Guid(343755c63a798a54690d97d5134f4f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bush A.asset using Guid(343755c63a798a54690d97d5134f4f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32add7a4700617fda4c5c5f8e23af378') in 0.021295 seconds 
+  Import took 0.030041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bush B.asset
+  artifactKey: Guid(0c602d9315fd83d46ab21d2720557ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bush B.asset using Guid(0c602d9315fd83d46ab21d2720557ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eedac7fd119401e6bed98ed601d9ba9') in 0.024118 seconds 
+  Import took 0.033039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Campfire.asset
+  artifactKey: Guid(ef911fd486378944da5e59c06f7db6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Campfire.asset using Guid(ef911fd486378944da5e59c06f7db6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864a6837ede71a490ec785fd03a1a0a5') in 0.023441 seconds 
+  Import took 0.032580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Brick Wall.asset
+  artifactKey: Guid(7c4cf002b305da348b9ff9c1b4a114ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Brick Wall.asset using Guid(7c4cf002b305da348b9ff9c1b4a114ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c702686500d2d7186fbb3d2eaa6020eb') in 0.026687 seconds 
+  Import took 0.033224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bucket.asset
+  artifactKey: Guid(cb46a357e32a639488cbc0b27c6df4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bucket.asset using Guid(cb46a357e32a639488cbc0b27c6df4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ece860640edbdfc4575b5aa3cceac37') in 0.021690 seconds 
+  Import took 0.028441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bush C.asset
+  artifactKey: Guid(29e4c11ed76a3054192bd12baf9d1c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bush C.asset using Guid(29e4c11ed76a3054192bd12baf9d1c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a22c1245bfd7d55b0dce4b6dcd77400') in 0.024201 seconds 
+  Import took 0.033630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038261 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard.asset
+  artifactKey: Guid(3f8a03f7252fa944d8684896354d6f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard.asset using Guid(3f8a03f7252fa944d8684896354d6f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d42967d31f04b47e5ac7131c6db45d') in 0.053168 seconds 
+  Import took 0.071072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bread.asset
+  artifactKey: Guid(8fb58a95af675754cacb729dfb8472d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Bread.asset using Guid(8fb58a95af675754cacb729dfb8472d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0734383f1105d1b2cec0ce4864053c0') in 0.024092 seconds 
+  Import took 0.035402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009253 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti A.asset
+  artifactKey: Guid(7376ae2b13bb27144b22204efe95b13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti A.asset using Guid(7376ae2b13bb27144b22204efe95b13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3e3b9442ac88465b740a4ce86ad018') in 0.023756 seconds 
+  Import took 0.034321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti B.asset
+  artifactKey: Guid(d783e905a02f5eb42afa031340348d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti B.asset using Guid(d783e905a02f5eb42afa031340348d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de0f786bd504e5a5c280fe67d0ffc1f1') in 0.022741 seconds 
+  Import took 0.031645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti C.asset
+  artifactKey: Guid(79951d4acfb16b64b910e1d88ddbabba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti C.asset using Guid(79951d4acfb16b64b910e1d88ddbabba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275b9ef40d939c7b4590ed42ed09a081') in 0.022336 seconds 
+  Import took 0.032040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti D.asset
+  artifactKey: Guid(8cb35dd77822e4b43809ead50a1776b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Billboard Noti D.asset using Guid(8cb35dd77822e4b43809ead50a1776b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5615c83a9789482616e6986efc79e5a') in 0.022179 seconds 
+  Import took 0.031603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054960 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Banner Pillar.asset
+  artifactKey: Guid(9d6c550b5d480a0428e207e0d0a7ba3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Banner Pillar.asset using Guid(9d6c550b5d480a0428e207e0d0a7ba3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bc20c81a8d4a04da0b0cb2d0162d99') in 0.022736 seconds 
+  Import took 0.031583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Banner.asset
+  artifactKey: Guid(e579ac5e93337464d9b12241e2ac6ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Banner.asset using Guid(e579ac5e93337464d9b12241e2ac6ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4901de01517782ebf9a43c186ee8dced') in 0.024799 seconds 
+  Import took 0.033017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Barricade.asset
+  artifactKey: Guid(c6b8145df2c3778418390ca79c31670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Barricade.asset using Guid(c6b8145df2c3778418390ca79c31670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1755eae3b80e5e6f45a57020aab4692') in 0.021331 seconds 
+  Import took 0.027807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Basket.asset
+  artifactKey: Guid(985578658ec34ee43ae5e8bec149be73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Basket.asset using Guid(985578658ec34ee43ae5e8bec149be73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bb9d9cafc9d52adbb1f18ac4ad142a') in 0.023561 seconds 
+  Import took 0.032719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Barrel.asset
+  artifactKey: Guid(1f5a2ba50bda42f4c90f90c3cb4444dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props Barrel.asset using Guid(1f5a2ba50bda42f4c90f90c3cb4444dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f2c865025424f7cee6e1262235f19e') in 0.022614 seconds 
+  Import took 0.030471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 876.142930 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Prefab/PF FX Campfire Fire.prefab
+  artifactKey: Guid(2b206c0d2afb3604183d9210be1d84ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Prefab/PF FX Campfire Fire.prefab using Guid(2b206c0d2afb3604183d9210be1d84ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10249b2c63f130e987ea23e70906569') in 0.042284 seconds 
+  Import took 0.051740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Prefab/PF FX Torch Fire.prefab
+  artifactKey: Guid(4cfc0b96b77f5374a9242d6779dd65bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Prefab/PF FX Torch Fire.prefab using Guid(4cfc0b96b77f5374a9242d6779dd65bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce17f3f21fc55881a46c719f327a819') in 0.018178 seconds 
+  Import took 0.025258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Prefab/PF FX Fire Bowl Fire.prefab
+  artifactKey: Guid(69e62f89c9d82ba4085d34eeff6f57bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Prefab/PF FX Fire Bowl Fire.prefab using Guid(69e62f89c9d82ba4085d34eeff6f57bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6be8e04405d0af0aefeb92709d5aa3c') in 0.019929 seconds 
+  Import took 0.028061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 435.739459 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dae1fc1b34d12a33df4f43cddedd0be') in 0.349718 seconds 
+  Import took 0.355260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.948855 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5e534b7d5cd91afda01fa7c8c4d0eb') in 0.230602 seconds 
+  Import took 0.234959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.977433 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac7538418ea6da5b33df3d04a1d56f0') in 0.443230 seconds 
+  Import took 0.452730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.101077 seconds.
+  path: Assets/Texture/Platfrom.prefab
+  artifactKey: Guid(57094254edaa41940bb2a2ab93bfb018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Platfrom.prefab using Guid(57094254edaa41940bb2a2ab93bfb018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d787831072cddc7ef5d0fac8e27522') in 0.014042 seconds 
+  Import took 0.021022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Texture/TX Village Props B.asset
+  artifactKey: Guid(a254ea21c15d5cc458db4681b4f2901b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props B.asset using Guid(a254ea21c15d5cc458db4681b4f2901b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2266d8eb3addf69bcbd1d0463c5e00f8') in 0.017766 seconds 
+  Import took 0.024202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Texture/TX Village Props Banner.asset
+  artifactKey: Guid(e824c672298f0f247a5469fd91e157ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Banner.asset using Guid(e824c672298f0f247a5469fd91e157ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba770a4b818d176f660d5a0dc9bb27e') in 0.017851 seconds 
+  Import took 0.025218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Texture/TX Village Props Arrow Hit.asset
+  artifactKey: Guid(8e45c9e82988df342b8ca4d0f56494d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Arrow Hit.asset using Guid(8e45c9e82988df342b8ca4d0f56494d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c0898993ea5300851327393a63318b') in 0.018846 seconds 
+  Import took 0.026634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Texture/TX Village Props Arrow.asset
+  artifactKey: Guid(0c08b1f47787ba14bb40c9369c3a4707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Arrow.asset using Guid(0c08b1f47787ba14bb40c9369c3a4707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63476d301f12fa29593a0de96fe0b5f') in 0.019106 seconds 
+  Import took 0.027055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Texture/TX Village Props Apple.asset
+  artifactKey: Guid(ded57f50831e7e94aba264faada78d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Apple.asset using Guid(ded57f50831e7e94aba264faada78d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de85fe5761ab42be8e1afc27830c673') in 0.019909 seconds 
+  Import took 0.029492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Texture/TX Village Props Axe.asset
+  artifactKey: Guid(6bbf85c30036f1a40beb49cccb901aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Axe.asset using Guid(6bbf85c30036f1a40beb49cccb901aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012fd200f6005f99cce77dfe3aeeb827') in 0.018707 seconds 
+  Import took 0.025577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Texture/TX Village Props Anvil.asset
+  artifactKey: Guid(eb9a3f38b70aed5459fe99f6593709bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Anvil.asset using Guid(eb9a3f38b70aed5459fe99f6593709bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce699c9d78ac7f00198c5d690df59490') in 0.019160 seconds 
+  Import took 0.027516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Texture/TX Village Props Archert Target.asset
+  artifactKey: Guid(8be107f9f26dc754bb92b68e6f6b4372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Archert Target.asset using Guid(8be107f9f26dc754bb92b68e6f6b4372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31691a6f5fad95512e2b2b2231438ec') in 0.020214 seconds 
+  Import took 0.027642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Texture/TX Village Props Banner Pillar.asset
+  artifactKey: Guid(f252ecacfa33f9b49b87853693cbd0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Banner Pillar.asset using Guid(f252ecacfa33f9b49b87853693cbd0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d5192264c1a94e505fa90b3227fc4d') in 0.024208 seconds 
+  Import took 0.031212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.126887 seconds.
+  path: Assets/Texture/TX Village Props Barrel.asset
+  artifactKey: Guid(d44369bc4c3226f4ab93b2985e5fe13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Barrel.asset using Guid(d44369bc4c3226f4ab93b2985e5fe13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bfc0ed6b8d8ca6bb6b778bd90faf79') in 0.017251 seconds 
+  Import took 0.025042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Texture/TX Village Props Barricade.asset
+  artifactKey: Guid(d784a1331c0b0d74d9605eeab1fb51f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Barricade.asset using Guid(d784a1331c0b0d74d9605eeab1fb51f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c13eb8edbbdc9983222fe6ca0ea1e90') in 0.018230 seconds 
+  Import took 0.024470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.288865 seconds.
+  path: Assets/Texture/TX Village Props Basket.asset
+  artifactKey: Guid(3fd1cb3e13390e943802ea9fde9b59d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Basket.asset using Guid(3fd1cb3e13390e943802ea9fde9b59d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0947f194541dff1481eef5fe75e172') in 0.016892 seconds 
+  Import took 0.023301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Texture/TX Village Props Billboard Noti A.asset
+  artifactKey: Guid(7d25a160d8f5afd49ad30290aaefb598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Billboard Noti A.asset using Guid(7d25a160d8f5afd49ad30290aaefb598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73485304e5a7b3cbab6f371936515b93') in 0.017173 seconds 
+  Import took 0.024767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Texture/TX Village Props Billboard Noti C.asset
+  artifactKey: Guid(320471069d2bc55438f44218385b870e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Billboard Noti C.asset using Guid(320471069d2bc55438f44218385b870e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9df6e2ed325c0b03b887c36b8e47f15') in 0.017368 seconds 
+  Import took 0.023727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Texture/TX Village Props Billboard Noti A.asset
+  artifactKey: Guid(7d25a160d8f5afd49ad30290aaefb598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Billboard Noti A.asset using Guid(7d25a160d8f5afd49ad30290aaefb598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73485304e5a7b3cbab6f371936515b93') in 0.020559 seconds 
+  Import took 0.028582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Texture/TX Village Props Billboard Noti B.asset
+  artifactKey: Guid(4ef7b1794b440aa41a3277189cdad280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Billboard Noti B.asset using Guid(4ef7b1794b440aa41a3277189cdad280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66bff48702e5862910dd6e1aab0c5b6') in 0.018137 seconds 
+  Import took 0.025347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Texture/TX Village Props Basket.asset
+  artifactKey: Guid(3fd1cb3e13390e943802ea9fde9b59d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Basket.asset using Guid(3fd1cb3e13390e943802ea9fde9b59d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0947f194541dff1481eef5fe75e172') in 0.020064 seconds 
+  Import took 0.028153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.279020 seconds.
+  path: Assets/Texture/TX Village Props Billboard Noti D.asset
+  artifactKey: Guid(33e54f19d69db2e4ba4a2299b6c6d421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Billboard Noti D.asset using Guid(33e54f19d69db2e4ba4a2299b6c6d421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06394a7ee9b0a418866d392550deb28') in 0.017213 seconds 
+  Import took 0.023899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Texture/TX Village Props Billboard.asset
+  artifactKey: Guid(4d7056cf14c95604e843fc36fe8a4952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Billboard.asset using Guid(4d7056cf14c95604e843fc36fe8a4952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098ad56a265414d2cddf7580ea057b50') in 0.019440 seconds 
+  Import took 0.029415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Texture/TX Village Props Bread.asset
+  artifactKey: Guid(1eb8fb6f905bbed40ba09971fbd58e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Bread.asset using Guid(1eb8fb6f905bbed40ba09971fbd58e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a892e995febd04a2bcdf407f492cf41') in 0.018644 seconds 
+  Import took 0.027231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Texture/TX Village Props Brick Wall.asset
+  artifactKey: Guid(013b0133d77ecbb40a9ae5b92952fe02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Brick Wall.asset using Guid(013b0133d77ecbb40a9ae5b92952fe02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85ed56cedb19f559d4c3fb448d7adb1') in 0.019897 seconds 
+  Import took 0.028353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.251000 seconds.
+  path: Assets/Texture/TX Village Props Bucket.asset
+  artifactKey: Guid(81507d7d2fa3ee04a8aea6204a90287e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Bucket.asset using Guid(81507d7d2fa3ee04a8aea6204a90287e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f37ac8aab2156a5de9457959c1d38b') in 0.018418 seconds 
+  Import took 0.028321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000883 seconds.
+  path: Assets/Texture/TX Village Props Bush B.asset
+  artifactKey: Guid(92aff8127f67ea94dbe3a2f9c341b19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Bush B.asset using Guid(92aff8127f67ea94dbe3a2f9c341b19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b146d102323d0b4f7e68dcef710a888a') in 0.123699 seconds 
+  Import took 0.133531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Texture/TX Village Props Campfire.asset
+  artifactKey: Guid(a540e4891e35d384dbdb0a850bf6d356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Campfire.asset using Guid(a540e4891e35d384dbdb0a850bf6d356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608c25111f311dd4be033d6eda7ea159') in 0.021964 seconds 
+  Import took 0.032267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Texture/TX Village Props Cauldron.asset
+  artifactKey: Guid(1a7189edf3607f74d914ad587a4e4500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cauldron.asset using Guid(1a7189edf3607f74d914ad587a4e4500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b7f4960dbc329480a0dd4f241319c5') in 0.021288 seconds 
+  Import took 0.033336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/Texture/TX Village Props Bush C.asset
+  artifactKey: Guid(e3f9204784aa385488724e825b620d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Bush C.asset using Guid(e3f9204784aa385488724e825b620d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ba45e9e14b95d8f6c1f9037d39e094') in 0.021007 seconds 
+  Import took 0.031816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Texture/TX Village Props Bush A.asset
+  artifactKey: Guid(283a07e52bab34c4994dc7b0bb41da87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Bush A.asset using Guid(283a07e52bab34c4994dc7b0bb41da87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9d673cae7487d8da8fb08350ce84d2') in 0.021459 seconds 
+  Import took 0.029828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014235 seconds.
+  path: Assets/Texture/TX Village Props Chair.asset
+  artifactKey: Guid(fd29e8e70d298eb43840f39509845182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Chair.asset using Guid(fd29e8e70d298eb43840f39509845182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93dbd265da2be95e02db9a6306454c3a') in 0.080053 seconds 
+  Import took 0.109976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/Texture/TX Village Props Chest Opened.asset
+  artifactKey: Guid(7eec2d41923bf354aa97a478e5cf0ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Chest Opened.asset using Guid(7eec2d41923bf354aa97a478e5cf0ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8b9cd3584e35776cf12923e5db1e4a') in 0.026443 seconds 
+  Import took 0.039433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Texture/TX Village Props Chest.asset
+  artifactKey: Guid(1bb39825176038b46a92658b09b3e612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Chest.asset using Guid(1bb39825176038b46a92658b09b3e612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd006c4b60b5c0ecf9275312e800002') in 0.031245 seconds 
+  Import took 0.048217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/Texture/TX Village Props Cloth B.asset
+  artifactKey: Guid(658089e6b1c680e4ebb764c9003c901e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth B.asset using Guid(658089e6b1c680e4ebb764c9003c901e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170f370d32e81cd1472dcb6e29cd2d0d') in 0.021283 seconds 
+  Import took 0.031930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000743 seconds.
+  path: Assets/Texture/TX Village Props Cloth A.asset
+  artifactKey: Guid(d8759518a1eaa854aaf7464513b4be18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth A.asset using Guid(d8759518a1eaa854aaf7464513b4be18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e8e3b9e600fa06f34cea54acabdbf7') in 0.019576 seconds 
+  Import took 0.027921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Texture/TX Village Props Cloth C.asset
+  artifactKey: Guid(54cd5997bd24b4c4abdcc346b07ab3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth C.asset using Guid(54cd5997bd24b4c4abdcc346b07ab3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4b3457ad29c89d0dc1258cce054876') in 0.020308 seconds 
+  Import took 0.030508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.104149 seconds.
+  path: Assets/Texture/TX Village Props Cloth D.asset
+  artifactKey: Guid(6e215370eb316c3429dbc5b4126b1123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth D.asset using Guid(6e215370eb316c3429dbc5b4126b1123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cab644f23a3c48ee2985315e1ce3c1') in 0.013194 seconds 
+  Import took 0.019239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Texture/TX Village Props Cloth F.asset
+  artifactKey: Guid(8e2c65145a1501948954c2a0e774e7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth F.asset using Guid(8e2c65145a1501948954c2a0e774e7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd359e7a2c603a3e717b35e891dab6dcf') in 0.011577 seconds 
+  Import took 0.015828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Texture/TX Village Props Clother Hanger Pillar B.asset
+  artifactKey: Guid(708fb6de0a753ff43913f42e93dab6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Clother Hanger Pillar B.asset using Guid(708fb6de0a753ff43913f42e93dab6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b1daeab5507c0613d707a90eec3052') in 0.014343 seconds 
+  Import took 0.021017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Texture/TX Village Props Cloth E.asset
+  artifactKey: Guid(a90c2051ab463e847b8fc93c6e8ff153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth E.asset using Guid(a90c2051ab463e847b8fc93c6e8ff153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f1d6476117a872958ff64d706520d6') in 0.012121 seconds 
+  Import took 0.017157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Texture/TX Village Props Cloth G.asset
+  artifactKey: Guid(ff1da4066ea776d44af6a7d11bb174ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth G.asset using Guid(ff1da4066ea776d44af6a7d11bb174ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80a873615fa790113042c5ecca6aa7e') in 0.011276 seconds 
+  Import took 0.015837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Texture/TX Village Props Clother Hanger Clip.asset
+  artifactKey: Guid(d0238f5c0a72d7749ae84d28b83bd7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Clother Hanger Clip.asset using Guid(d0238f5c0a72d7749ae84d28b83bd7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd9988165607ce489619a28585fac88') in 0.009069 seconds 
+  Import took 0.012654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Texture/TX Village Props Clother Hanger Pillar A.asset
+  artifactKey: Guid(943c6a4237445384084e5523c92bbfa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Clother Hanger Pillar A.asset using Guid(943c6a4237445384084e5523c92bbfa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63fe4b5f206549afd8eecd58f74eb903') in 0.011196 seconds 
+  Import took 0.015203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Texture/TX Village Props Cloth H.asset
+  artifactKey: Guid(08b11b3863408c1419a5bc4aae766ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cloth H.asset using Guid(08b11b3863408c1419a5bc4aae766ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd605e0a7f68d73db68a89912bb0de963') in 0.011303 seconds 
+  Import took 0.015150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.642920 seconds.
+  path: Assets/Texture/TX Village Props Clother Hanger Rope A.asset
+  artifactKey: Guid(b6229cd06010cd34ba0ab4421064f586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Clother Hanger Rope A.asset using Guid(b6229cd06010cd34ba0ab4421064f586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431b44ac3ce62a47055e2836e344e3ca') in 0.011815 seconds 
+  Import took 0.015366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.290355 seconds.
+  path: Assets/Texture/TX Village Props Clother Hanger Rope B.asset
+  artifactKey: Guid(122e89ab21bc1fe4d9a9b539d525fece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Clother Hanger Rope B.asset using Guid(122e89ab21bc1fe4d9a9b539d525fece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16429279772ad1c635a748204ed4bcd0') in 0.011127 seconds 
+  Import took 0.015157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Texture/TX Village Props Crate Large.asset
+  artifactKey: Guid(21cbdb42c0c0b18458e0df6e047c8aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Crate Large.asset using Guid(21cbdb42c0c0b18458e0df6e047c8aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca549c271109557289bcf9cf0d85afff') in 0.011417 seconds 
+  Import took 0.014887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.442051 seconds.
+  path: Assets/Texture/TX Village Props Crate Small.asset
+  artifactKey: Guid(3301792222e7bca4cb55669d8121b0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Crate Small.asset using Guid(3301792222e7bca4cb55669d8121b0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989eb9932414b61ae4f2b5d7bf42f5eb') in 0.012651 seconds 
+  Import took 0.017339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Texture/TX Village Props Cup.asset
+  artifactKey: Guid(8f909a5931667f54483fbcdc1cab892d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Cup.asset using Guid(8f909a5931667f54483fbcdc1cab892d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ca139eab868b60c3da341078cd9f1f') in 0.011430 seconds 
+  Import took 0.016570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Texture/TX Village Props Fence A Pillar A.asset
+  artifactKey: Guid(692c4972be7fdc147bdddf25cc9f5c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Pillar A.asset using Guid(692c4972be7fdc147bdddf25cc9f5c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3724a2db69f9580fdf4f388fd9b86ed') in 0.012663 seconds 
+  Import took 0.016639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Texture/TX Village Props Fence A Nail.asset
+  artifactKey: Guid(3d9f8ec0ba8d8e84999fac4c1a484fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Nail.asset using Guid(3d9f8ec0ba8d8e84999fac4c1a484fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cffc0363a5e749074b244401f5fb0f04') in 0.012719 seconds 
+  Import took 0.016407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.327032 seconds.
+  path: Assets/Texture/TX Village Props Fence A Pillar B.asset
+  artifactKey: Guid(ff210028e10090b429980361fd2b4b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Pillar B.asset using Guid(ff210028e10090b429980361fd2b4b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b49370fa0af03d8ac470425183fe637') in 0.009225 seconds 
+  Import took 0.013905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Texture/TX Village Props Fence A Pillar C.asset
+  artifactKey: Guid(150ea5e959a389142912bf2520dd2658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Pillar C.asset using Guid(150ea5e959a389142912bf2520dd2658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca94e060a319b285d26522eaa2579ff') in 0.010604 seconds 
+  Import took 0.014579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.343506 seconds.
+  path: Assets/Texture/TX Village Props Fence A Rail A.asset
+  artifactKey: Guid(a677a430987b74f4197c0e1c290eee05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Rail A.asset using Guid(a677a430987b74f4197c0e1c290eee05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b9001534de292302c34e7060590365') in 0.022192 seconds 
+  Import took 0.030981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Texture/TX Village Props Fence A Rail B.asset
+  artifactKey: Guid(97ff8dacf52c2604284dc883ce041837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Rail B.asset using Guid(97ff8dacf52c2604284dc883ce041837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0961663ac9ed843d77026a7264c02984') in 0.017052 seconds 
+  Import took 0.023252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.240849 seconds.
+  path: Assets/Texture/TX Village Props Fence A Rail C.asset
+  artifactKey: Guid(c0677c559c13c1c418af3159209c2849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence A Rail C.asset using Guid(c0677c559c13c1c418af3159209c2849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2073ccdaef37053721b49b27a89a24db') in 0.009607 seconds 
+  Import took 0.013468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Texture/TX Village Props Fence B Pillar.asset
+  artifactKey: Guid(df6ecca500439e445a8355b6e73d0b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence B Pillar.asset using Guid(df6ecca500439e445a8355b6e73d0b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6600ccb285a24c7acd72a1c464fcc9e4') in 0.009821 seconds 
+  Import took 0.013122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.316015 seconds.
+  path: Assets/Texture/TX Village Props Fence B Rail.asset
+  artifactKey: Guid(943be4691ea79944fa7b0605de35aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fence B Rail.asset using Guid(943be4691ea79944fa7b0605de35aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbbeae2acc9cd4d375eabce74d0c7d00') in 0.010838 seconds 
+  Import took 0.014842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Texture/TX Village Props Fire Bowl.asset
+  artifactKey: Guid(2107945290f75214f9cda2e667dd1ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Fire Bowl.asset using Guid(2107945290f75214f9cda2e667dd1ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83081f441bf0d1842e917faaf48dca22') in 0.010063 seconds 
+  Import took 0.013942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007677 seconds.
+  path: Assets/Texture/TX Village Props Flower A.asset
+  artifactKey: Guid(229838a47fee12842915a3207552294d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Flower A.asset using Guid(229838a47fee12842915a3207552294d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3e39dc45f101a611eea300a29ae18a') in 0.009155 seconds 
+  Import took 0.013870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Texture/TX Village Props Flower B.asset
+  artifactKey: Guid(27db2b47b65e2b643a06eceb71e97416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Flower B.asset using Guid(27db2b47b65e2b643a06eceb71e97416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e924a5679baeeb19ee32f03c44e393f2') in 0.011349 seconds 
+  Import took 0.016397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.415334 seconds.
+  path: Assets/Texture/TX Village Props Grain Box.asset
+  artifactKey: Guid(df5c104be067586498f4c7dbae2322c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grain Box.asset using Guid(df5c104be067586498f4c7dbae2322c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16c42b84e87a93518cf4fe820a44dd1') in 0.010856 seconds 
+  Import took 0.014781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Texture/TX Village Props Grass A.asset
+  artifactKey: Guid(f404e2ac99644c2448c86308602f900e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grass A.asset using Guid(f404e2ac99644c2448c86308602f900e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffedb421f9a8b3f5cd4fba4c91ec0fe') in 0.009582 seconds 
+  Import took 0.012943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302894 seconds.
+  path: Assets/Texture/TX Village Props Grass B.asset
+  artifactKey: Guid(52e83455b288209448c2198b6c67a9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grass B.asset using Guid(52e83455b288209448c2198b6c67a9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c33e54759b3a88612be46c0a8ebe9e') in 0.009678 seconds 
+  Import took 0.014096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Texture/TX Village Props Grass C.asset
+  artifactKey: Guid(865ba38e439705b45a2f6fc2fa71a502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grass C.asset using Guid(865ba38e439705b45a2f6fc2fa71a502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84e09988c4b50dca2be12a1b7035ce5') in 0.009346 seconds 
+  Import took 0.012736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.316930 seconds.
+  path: Assets/Texture/TX Village Props Grass D.asset
+  artifactKey: Guid(1437dee8e090b914a84fc3613373d4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grass D.asset using Guid(1437dee8e090b914a84fc3613373d4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa34f001ef4d3836362160690ad5f725') in 0.009635 seconds 
+  Import took 0.013851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Texture/TX Village Props Grass E.asset
+  artifactKey: Guid(ffa8ddcbf4212704689f89007f0bf369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grass E.asset using Guid(ffa8ddcbf4212704689f89007f0bf369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ed830cd89cf14319f8d93d4220847b') in 0.009558 seconds 
+  Import took 0.013394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070897 seconds.
+  path: Assets/Texture/TX Village Props Grass F.asset
+  artifactKey: Guid(0bde7a2c132dcf34cba79bb6e0b8c4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Grass F.asset using Guid(0bde7a2c132dcf34cba79bb6e0b8c4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fa50255b3e59378e342b5cbb9cd194') in 0.008923 seconds 
+  Import took 0.012628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Texture/TX Village Props Gravestone A.asset
+  artifactKey: Guid(44c6684cb405e264a9a65ea26785580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gravestone A.asset using Guid(44c6684cb405e264a9a65ea26785580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091a3221199836874457389989bbd775') in 0.010710 seconds 
+  Import took 0.014693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.298892 seconds.
+  path: Assets/Texture/TX Village Props Pumpkin A.asset
+  artifactKey: Guid(21de41ffaffe963439e14fdd964e2204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Pumpkin A.asset using Guid(21de41ffaffe963439e14fdd964e2204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f45d5b55e8558ea7c964778a3f9b4c') in 0.020252 seconds 
+  Import took 0.027622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Texture/TX Village Props Road Sign Text B.asset
+  artifactKey: Guid(1a7b96ae288fa75418f8c584760c26f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Sign Text B.asset using Guid(1a7b96ae288fa75418f8c584760c26f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47471a22c7148eae315269ed0cf1c8b') in 0.021074 seconds 
+  Import took 0.027935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Texture/TX Village Props Road Sign Text A.asset
+  artifactKey: Guid(9d086c2b4a966444bae0ac3025127330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Sign Text A.asset using Guid(9d086c2b4a966444bae0ac3025127330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a92cebf03d8dfcd24bd7f14f6c089d') in 0.016086 seconds 
+  Import took 0.022914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Texture/TX Village Props Rock A.asset
+  artifactKey: Guid(f02b56568c47a55429c48f1a0c533749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Rock A.asset using Guid(f02b56568c47a55429c48f1a0c533749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0abef73181e49fd3ffc05fd182e2d1') in 0.020236 seconds 
+  Import took 0.027626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Texture/TX Village Props Road Lamp Light On.asset
+  artifactKey: Guid(d12c16c86121f904f839c84973938cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Lamp Light On.asset using Guid(d12c16c86121f904f839c84973938cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8a923b0430ec104c1f08271867ccdf') in 0.019172 seconds 
+  Import took 0.026066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Texture/TX Village Props Road Lamp.asset
+  artifactKey: Guid(6e4ab488fb0b7464bb325b40cdc3d301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Lamp.asset using Guid(6e4ab488fb0b7464bb325b40cdc3d301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9744cc562ac89fc3d2c8090839a5f30b') in 0.018883 seconds 
+  Import took 0.025540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Texture/TX Village Props Road Sign A.asset
+  artifactKey: Guid(15c042995ca15d543bac8f5deb368074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Sign A.asset using Guid(15c042995ca15d543bac8f5deb368074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc99a4771ea07af9d81ddebf6339fab3') in 0.016009 seconds 
+  Import took 0.023578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Texture/TX Village Props Road Sign B.asset
+  artifactKey: Guid(435df2eecbc78e14dbeac4a98e4bdee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Sign B.asset using Guid(435df2eecbc78e14dbeac4a98e4bdee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f37d90d07a6f72f951eabe8ce4ef5f3') in 0.017674 seconds 
+  Import took 0.024872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Texture/TX Village Props Road Lamp Light Off.asset
+  artifactKey: Guid(4dfea196641d2024aac580b9571e1f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Lamp Light Off.asset using Guid(4dfea196641d2024aac580b9571e1f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4552d0a1adc4b2c5f7c0bdc3afbc6ade') in 0.020785 seconds 
+  Import took 0.030708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Texture/TX Village Props Road Sign Text C.asset
+  artifactKey: Guid(201f797b9c97973428cf5f9a5ad304a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Road Sign Text C.asset using Guid(201f797b9c97973428cf5f9a5ad304a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d610dbfec8b5276f41dc09876e4a932') in 0.025553 seconds 
+  Import took 0.043078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Texture/TX Village Props Pumpkin B.asset
+  artifactKey: Guid(3bd8186a3ab113e419e7e20fae30116d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Pumpkin B.asset using Guid(3bd8186a3ab113e419e7e20fae30116d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bbd4064502ff25ea175a5a687f35e8') in 0.023029 seconds 
+  Import took 0.032414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.886161 seconds.
+  path: Assets/Texture/TX Village Props Pot B.asset
+  artifactKey: Guid(54cffdca5ea325f49a0e6edc958a501c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Pot B.asset using Guid(54cffdca5ea325f49a0e6edc958a501c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29dde19af4b40b97c9587e14c333314e') in 0.020455 seconds 
+  Import took 0.029031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/Texture/TX Village Props Pot C.asset
+  artifactKey: Guid(7dbd192365acd8741bca489e3eb812f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Pot C.asset using Guid(7dbd192365acd8741bca489e3eb812f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f07eaa20b5626dce8ddc83fbacee9f') in 0.093109 seconds 
+  Import took 0.140700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Texture/TX Village Props Platform W.asset
+  artifactKey: Guid(b19419b6d202ee04b801f973a43ec5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Platform W.asset using Guid(b19419b6d202ee04b801f973a43ec5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd87d36612f89191c6439493448a863') in 0.024450 seconds 
+  Import took 0.039586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/Texture/TX Village Props Pot A.asset
+  artifactKey: Guid(e2350c3bc1680a0468782197fb13069b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Pot A.asset using Guid(e2350c3bc1680a0468782197fb13069b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5bc2e4ad93a3070aa5bc170d9dc5a5d') in 0.038130 seconds 
+  Import took 0.050472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089618 seconds.
+  path: Assets/Texture/TX Village Props Platform L.asset
+  artifactKey: Guid(4adfd21d046ddc7438fa0ef66ffb4d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Platform L.asset using Guid(4adfd21d046ddc7438fa0ef66ffb4d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76bd16bc489b0c310308bbded226e662') in 0.027198 seconds 
+  Import took 0.046537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/Texture/TX Village Props Platform M.asset
+  artifactKey: Guid(8526227cee86e964da455dc4f17d5aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Platform M.asset using Guid(8526227cee86e964da455dc4f17d5aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa133d8fd505bbb7559107e3060448e8') in 0.022513 seconds 
+  Import took 0.032443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Texture/TX Village Props Platform S.asset
+  artifactKey: Guid(e0f0b5f188e9aa242b135598d42c7b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Platform S.asset using Guid(e0f0b5f188e9aa242b135598d42c7b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc936b12c24ee103792fe99dfdd20f25') in 0.020520 seconds 
+  Import took 0.029896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Texture/TX Village Props Platform R.asset
+  artifactKey: Guid(d13b294e277b5514cb081c0e3724f67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Platform R.asset using Guid(d13b294e277b5514cb081c0e3724f67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62495c775728d73b21bb0d474be12aa') in 0.019845 seconds 
+  Import took 0.029854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.114628 seconds.
+  path: Assets/Texture/TX Village Props Kettle.asset
+  artifactKey: Guid(ef173ef551eb2244cae7459453edd490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Kettle.asset using Guid(ef173ef551eb2244cae7459453edd490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6533b9d682825d96d35015c5b433a929') in 0.019731 seconds 
+  Import took 0.026561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Texture/TX Village Props Ladder T.asset
+  artifactKey: Guid(15c02de61165f7b4286a6785d911e7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Ladder T.asset using Guid(15c02de61165f7b4286a6785d911e7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1be402891376e759eab4bfcdc012a51') in 0.017419 seconds 
+  Import took 0.025799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Texture/TX Village Props Ladder M.asset
+  artifactKey: Guid(4d1ff96aebd7fd54699d30882f17ec39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Ladder M.asset using Guid(4d1ff96aebd7fd54699d30882f17ec39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da50eb28ae2723b67b2c0e568ca11248') in 0.021503 seconds 
+  Import took 0.028830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Texture/TX Village Props Log Bench.asset
+  artifactKey: Guid(13e5b61956465da4ea802b2972a532e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Log Bench.asset using Guid(13e5b61956465da4ea802b2972a532e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a41b0d3efc3223f55b42c588481513') in 0.017877 seconds 
+  Import took 0.025103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129610 seconds.
+  path: Assets/Texture/TX Village Props Hay Pile.asset
+  artifactKey: Guid(c192f6d6bfcc8114c8518d72ce738c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Hay Pile.asset using Guid(c192f6d6bfcc8114c8518d72ce738c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270c3975b0377ea15edf809852b3144b') in 0.018560 seconds 
+  Import took 0.025684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Texture/TX Village Props Hay Bale.asset
+  artifactKey: Guid(4f8433a08ceeba74d817a5005ccef7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Hay Bale.asset using Guid(4f8433a08ceeba74d817a5005ccef7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b090a7b1ab2245b30e7de61d8624cf') in 0.018341 seconds 
+  Import took 0.025720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Texture/TX Village Props Heavy Sword.asset
+  artifactKey: Guid(42254e61e5fc3a0418203b38fff735cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Heavy Sword.asset using Guid(42254e61e5fc3a0418203b38fff735cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c67024329fe6c1bc12c98bf976f48b') in 0.018150 seconds 
+  Import took 0.024849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Texture/TX Village Props Hanging Bag.asset
+  artifactKey: Guid(07a840e4d63af98479152dc1129d3814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Hanging Bag.asset using Guid(07a840e4d63af98479152dc1129d3814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5704fbd057940fa7123f5df7b502c29a') in 0.018978 seconds 
+  Import took 0.026100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000760 seconds.
+  path: Assets/Texture/TX Village Props Hammer.asset
+  artifactKey: Guid(97e72b9c327c44a4da022f4dbdd61a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Hammer.asset using Guid(97e72b9c327c44a4da022f4dbdd61a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27874cc9e305ab2736bd4c456527c04') in 0.020517 seconds 
+  Import took 0.028015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000854 seconds.
+  path: Assets/Texture/TX Village Props Hay Fork.asset
+  artifactKey: Guid(6a4b9b02481101248bac909bbd27210c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Hay Fork.asset using Guid(6a4b9b02481101248bac909bbd27210c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69abae0a8d136361798095831f2a0973') in 0.018521 seconds 
+  Import took 0.025775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083569 seconds.
+  path: Assets/Texture/TX Village Props Gunny Bag A.asset
+  artifactKey: Guid(4402609672f76e84f88de8b2bc0f2bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gunny Bag A.asset using Guid(4402609672f76e84f88de8b2bc0f2bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49823bf33b626518c85d72a91ee81ef3') in 0.023629 seconds 
+  Import took 0.031644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Texture/TX Village Props Gravestone C.asset
+  artifactKey: Guid(740904d23efebe449bcec0ef05db8842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gravestone C.asset using Guid(740904d23efebe449bcec0ef05db8842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b09e2e350454696221a70e3dc45316') in 0.018440 seconds 
+  Import took 0.025063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Texture/TX Village Props Gunny Bag B.asset
+  artifactKey: Guid(8cb3605b0eac2a94fac8974be2cd4f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gunny Bag B.asset using Guid(8cb3605b0eac2a94fac8974be2cd4f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14055b296f917359eb758dadbf5b6e88') in 0.018022 seconds 
+  Import took 0.025638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Texture/TX Village Props Gravestone D.asset
+  artifactKey: Guid(67a1c0be2cd120343a691df11570e5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gravestone D.asset using Guid(67a1c0be2cd120343a691df11570e5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34dce03a0cfc1760de821ee462ef3573') in 0.018679 seconds 
+  Import took 0.026149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123021 seconds.
+  path: Assets/Texture/TX Village Props Gravestone B.asset
+  artifactKey: Guid(13cf7d7f1960dad48bd47af7f234ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gravestone B.asset using Guid(13cf7d7f1960dad48bd47af7f234ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0092e9799072214d7447f2a927de12d0') in 0.017495 seconds 
+  Import took 0.024786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004114 seconds.
+  path: Assets/Texture/TX Village Props Gravestone B.asset
+  artifactKey: Guid(13cf7d7f1960dad48bd47af7f234ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Gravestone B.asset using Guid(13cf7d7f1960dad48bd47af7f234ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0092e9799072214d7447f2a927de12d0') in 0.017039 seconds 
+  Import took 0.025481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.007506 seconds.
+  path: Assets/Texture/TX Village Props Rock B.asset
+  artifactKey: Guid(98250480e3977594dbf762bee2ff64e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Rock B.asset using Guid(98250480e3977594dbf762bee2ff64e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61aad368a7a928f438db5439519b75ae') in 0.012140 seconds 
+  Import took 0.015871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Texture/TX Village Props Rock C.asset
+  artifactKey: Guid(7abd8eb533eb5b747ba13737d9c18f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Rock C.asset using Guid(7abd8eb533eb5b747ba13737d9c18f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907ca79a9820b30abf2fd52142110be7') in 0.012893 seconds 
+  Import took 0.016803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033190 seconds.
+  path: Assets/Texture/TX Village Props Scarecrow.asset
+  artifactKey: Guid(521f9b8336484cc47a1354a5b3571388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Scarecrow.asset using Guid(521f9b8336484cc47a1354a5b3571388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731313c111a3180edcd4559fb1290eb2') in 0.012013 seconds 
+  Import took 0.016515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Texture/TX Village Props Spear.asset
+  artifactKey: Guid(923be762362d86b42af1cc069ef06300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Spear.asset using Guid(923be762362d86b42af1cc069ef06300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e4a07d518d3ee80c54baf78970cb03') in 0.019700 seconds 
+  Import took 0.023631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.427621 seconds.
+  path: Assets/Texture/TX Village Props Spike Ball.asset
+  artifactKey: Guid(3c2016d2cd69e0e429e0da3206dfa373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Spike Ball.asset using Guid(3c2016d2cd69e0e429e0da3206dfa373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62a3375a971b7cf3791e4f0bfbcaae7') in 0.010490 seconds 
+  Import took 0.014483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Texture/TX Village Props Spike.asset
+  artifactKey: Guid(f710c2ecbb1eff744ab4263c08b83fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Spike.asset using Guid(f710c2ecbb1eff744ab4263c08b83fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a694ece0ad1a1652994a5c704c9b88') in 0.008867 seconds 
+  Import took 0.012827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.324914 seconds.
+  path: Assets/Texture/TX Village Props Stall Fruit A.asset
+  artifactKey: Guid(83e01624e42ad5544b0e4f4449a0e077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Fruit A.asset using Guid(83e01624e42ad5544b0e4f4449a0e077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14758f38405b2b370bafd7c586a6bfbd') in 0.009205 seconds 
+  Import took 0.013225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Texture/TX Village Props Stall Fruit B.asset
+  artifactKey: Guid(eccbf1df20443a94ba1e19c1e4f7d04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Fruit B.asset using Guid(eccbf1df20443a94ba1e19c1e4f7d04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23257686ca0802b51de5a55533201304') in 0.008733 seconds 
+  Import took 0.012490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302113 seconds.
+  path: Assets/Texture/TX Village Props Stall Fruit C.asset
+  artifactKey: Guid(2563693c2f33f464da4bd8cc1f8bfe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Fruit C.asset using Guid(2563693c2f33f464da4bd8cc1f8bfe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2324527fbaa8707182b12cae17b1fbc') in 0.013630 seconds 
+  Import took 0.024010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Texture/TX Village Props Stall Fruit D.asset
+  artifactKey: Guid(2850785d8922724468515d9678b1b037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Fruit D.asset using Guid(2850785d8922724468515d9678b1b037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1288dc592f4eb9a653724cc45083b11d') in 0.013872 seconds 
+  Import took 0.022898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Texture/TX Village Props Stall Fruit C.asset
+  artifactKey: Guid(2563693c2f33f464da4bd8cc1f8bfe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Fruit C.asset using Guid(2563693c2f33f464da4bd8cc1f8bfe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2324527fbaa8707182b12cae17b1fbc') in 0.011696 seconds 
+  Import took 0.017823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Texture/TX Village Props Stall Fruit D.asset
+  artifactKey: Guid(2850785d8922724468515d9678b1b037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Fruit D.asset using Guid(2850785d8922724468515d9678b1b037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1288dc592f4eb9a653724cc45083b11d') in 0.011255 seconds 
+  Import took 0.017411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.305101 seconds.
+  path: Assets/Texture/TX Village Props Stall Table.asset
+  artifactKey: Guid(2d2bc1198c8b34d4e91bda34fd79efc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Table.asset using Guid(2d2bc1198c8b34d4e91bda34fd79efc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed7473b8ab1d576c039684e3789f139') in 0.022187 seconds 
+  Import took 0.030142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Texture/TX Village Props Stall Tent Pillar.asset
+  artifactKey: Guid(9cd583ff60de47040a57dbfaf47aabd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Tent Pillar.asset using Guid(9cd583ff60de47040a57dbfaf47aabd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0a1a8ed385f603f77ebc26bfd4e1f9') in 0.014672 seconds 
+  Import took 0.019700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Texture/TX Village Props Stall Table.asset
+  artifactKey: Guid(2d2bc1198c8b34d4e91bda34fd79efc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Table.asset using Guid(2d2bc1198c8b34d4e91bda34fd79efc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed7473b8ab1d576c039684e3789f139') in 0.010305 seconds 
+  Import took 0.015143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Texture/TX Village Props Stall Tent Pillar.asset
+  artifactKey: Guid(9cd583ff60de47040a57dbfaf47aabd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Tent Pillar.asset using Guid(9cd583ff60de47040a57dbfaf47aabd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0a1a8ed385f603f77ebc26bfd4e1f9') in 0.011363 seconds 
+  Import took 0.015283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Texture/TX Village Props Statue Bouquet.asset
+  artifactKey: Guid(c1233d87f517ae94db86c7dff4ff6358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Statue Bouquet.asset using Guid(c1233d87f517ae94db86c7dff4ff6358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935d12430cefc7e80474f370dadde88a') in 0.010643 seconds 
+  Import took 0.014399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Texture/TX Village Props Stall Tent.asset
+  artifactKey: Guid(a6bf93e01f7016548825e4e57526ad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stall Tent.asset using Guid(a6bf93e01f7016548825e4e57526ad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88829cf36c1fb8b0df7b5e6ff3aedd34') in 0.011382 seconds 
+  Import took 0.015940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243244 seconds.
+  path: Assets/Texture/TX Village Props Statue.asset
+  artifactKey: Guid(de42fbad1364bf9439b4a84492466b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Statue.asset using Guid(de42fbad1364bf9439b4a84492466b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3761a41a0a00ca15b0557887c06dbbe8') in 0.009619 seconds 
+  Import took 0.013218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Texture/TX Village Props Stump.asset
+  artifactKey: Guid(28ef062e45dc0a74c9b82ac39c55608b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Stump.asset using Guid(28ef062e45dc0a74c9b82ac39c55608b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b583b8606d00dc674bbfa63f6feb9136') in 0.009277 seconds 
+  Import took 0.012546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.471990 seconds.
+  path: Assets/Texture/TX Village Props Sunflower A.asset
+  artifactKey: Guid(414bafaee0c053c42a3627e653c8a3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Sunflower A.asset using Guid(414bafaee0c053c42a3627e653c8a3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512966d2061ec76db7b68be2c4f6c280') in 0.010830 seconds 
+  Import took 0.015038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Texture/TX Village Props Sunflower B.asset
+  artifactKey: Guid(a1930053e969c2945bcbdc65746e13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Sunflower B.asset using Guid(a1930053e969c2945bcbdc65746e13c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e15d2053c30cb00f56fe000d7ac591') in 0.010109 seconds 
+  Import took 0.013916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051034 seconds.
+  path: Assets/Texture/TX Village Props Sunflower C.asset
+  artifactKey: Guid(0abb335328057d54e899b691b6790663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Sunflower C.asset using Guid(0abb335328057d54e899b691b6790663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd1efec0d0fed51076ba18736cfe80b') in 0.010878 seconds 
+  Import took 0.014798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Texture/TX Village Props Sword.asset
+  artifactKey: Guid(5a906dba2ecd11c49b8ff4bab8078e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Sword.asset using Guid(5a906dba2ecd11c49b8ff4bab8078e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc87fe450e7fcd8937f2bc53f3f361f5') in 0.010636 seconds 
+  Import took 0.015032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.280405 seconds.
+  path: Assets/Texture/TX Village Props Table.asset
+  artifactKey: Guid(42a08d7fe82aab44eb17555a283bc0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Table.asset using Guid(42a08d7fe82aab44eb17555a283bc0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea0b01e4ef034d7eb296a4e610a17e8') in 0.009540 seconds 
+  Import took 0.013111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Texture/TX Village Props Torch.asset
+  artifactKey: Guid(ee3dd540a2ad40c4facc1ecb168bdcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Torch.asset using Guid(ee3dd540a2ad40c4facc1ecb168bdcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10954aed84dedacdea6c8e6b897db32f') in 0.010075 seconds 
+  Import took 0.013808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.497124 seconds.
+  path: Assets/Texture/TX Village Props Wheat D.asset
+  artifactKey: Guid(09b89eef9ef10b44c9f0601918d953fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheat D.asset using Guid(09b89eef9ef10b44c9f0601918d953fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d6e2c78bdd850c368a7252a7ec09ee') in 0.024459 seconds 
+  Import took 0.033411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Texture/TX Village Props Wine Bottle.asset
+  artifactKey: Guid(5cd4d7e65b27cca4c8a44a497379b570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wine Bottle.asset using Guid(5cd4d7e65b27cca4c8a44a497379b570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2104da362096bb4583577e9f8748c597') in 0.017385 seconds 
+  Import took 0.024694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Texture/TX Village Props Wheat E.asset
+  artifactKey: Guid(f8661baea94e11044b5bca3954e1ea9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheat E.asset using Guid(f8661baea94e11044b5bca3954e1ea9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbcf669f651f5196aa86904840a8584a') in 0.017468 seconds 
+  Import took 0.026144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Texture/TX Village Props White Bottle.asset
+  artifactKey: Guid(e5f71ecc501be444e98334927bb41b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props White Bottle.asset using Guid(e5f71ecc501be444e98334927bb41b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f43559504afc66683f5a6a1d5c94fc') in 0.017898 seconds 
+  Import took 0.025210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/Texture/TX Village Props Wood Logs.asset
+  artifactKey: Guid(e25f0e30330dbc145835cc7d6376d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wood Logs.asset using Guid(e25f0e30330dbc145835cc7d6376d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9c7a69b61c22f40ebde5943f2f6748') in 0.020658 seconds 
+  Import took 0.028303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Texture/TX Village Props Wheelbarrow.asset
+  artifactKey: Guid(b121234d182b8764d80a123cfaad2127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheelbarrow.asset using Guid(b121234d182b8764d80a123cfaad2127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7204e17c22d3716d2042d579800cc35') in 0.020396 seconds 
+  Import took 0.027963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Texture/TX Village Props Wheelbarrow Wheel.asset
+  artifactKey: Guid(d03efd1e17abb4c4787e274065e48300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheelbarrow Wheel.asset using Guid(d03efd1e17abb4c4787e274065e48300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca414b8df0f7a3c8c178ba4968ffe34') in 0.017160 seconds 
+  Import took 0.025459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.797100 seconds.
+  path: Assets/Texture/TX Village Props Wheat B.asset
+  artifactKey: Guid(35c98006fd4b38d44aa78db092fcc2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheat B.asset using Guid(35c98006fd4b38d44aa78db092fcc2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42875de773915eeee307c06360b2c95') in 0.018253 seconds 
+  Import took 0.026272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Texture/TX Village Props Wheat C.asset
+  artifactKey: Guid(eda64123eea344d409cecc13e86fda76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheat C.asset using Guid(eda64123eea344d409cecc13e86fda76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4e6d59bcfff04124a03e2ead735503') in 0.018248 seconds 
+  Import took 0.026124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297632 seconds.
+  path: Assets/Texture/TX Village Props Well.asset
+  artifactKey: Guid(4973ed1cf4ef9ea48b35d8eb336dc6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Well.asset using Guid(4973ed1cf4ef9ea48b35d8eb336dc6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e08ea08f9aa3cf50b6ee2ae97a29eb2') in 0.019135 seconds 
+  Import took 0.025430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Texture/TX Village Props Wheat A.asset
+  artifactKey: Guid(ab0a663a99a6e08428daa194802d8760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Wheat A.asset using Guid(ab0a663a99a6e08428daa194802d8760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b4e79fe01d692a6b7582da9d6327ef') in 0.018531 seconds 
+  Import took 0.026125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200869 seconds.
+  path: Assets/Texture/TX Village Props Tree B.asset
+  artifactKey: Guid(db473dcb30f9d22409ecca0d456a2f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Tree B.asset using Guid(db473dcb30f9d22409ecca0d456a2f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f088d72bdb3784546e12ffbc861fd1f4') in 0.020672 seconds 
+  Import took 0.027482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Texture/TX Village Props Weapon Rack.asset
+  artifactKey: Guid(cc9f68a020712f240a71bf3f56d9984f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Weapon Rack.asset using Guid(cc9f68a020712f240a71bf3f56d9984f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82b2222d81c9f7605ea9bcf82e58960') in 0.018800 seconds 
+  Import took 0.025089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294056 seconds.
+  path: Assets/Texture/TX Village Props Training Dummy.asset
+  artifactKey: Guid(b19537947bd238f42a2b0219ee2fc103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Training Dummy.asset using Guid(b19537947bd238f42a2b0219ee2fc103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f07c11f1a3448325b2c30799d798951') in 0.024870 seconds 
+  Import took 0.034588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Texture/TX Village Props Tree A.asset
+  artifactKey: Guid(0485bddfd88572b40aa20fda3ef20484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/TX Village Props Tree A.asset using Guid(0485bddfd88572b40aa20fda3ef20484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f5c67c136f93ed4036b82b571d228b') in 0.031899 seconds 
+  Import took 0.043968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.549035 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7fffc728cd689777981b839980e613') in 0.214178 seconds 
+  Import took 0.218182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.808752 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f796a2c8421a5547a5e375c1c24d8e') in 0.212718 seconds 
+  Import took 0.218314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.143575 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a3203adca9033d0cab6d2d06258a48') in 0.212725 seconds 
+  Import took 0.217320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.961713 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2de35fd6f9ac1d8c80e849eb017895') in 0.323992 seconds 
+  Import took 0.330973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.013236 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98fd8cab9655b4d642d74344d2cb0ee9') in 0.205135 seconds 
+  Import took 0.209312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.264135 seconds.
+  path: Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28fd5121c22ba67707364fd7d8fc82e6') in 0.447408 seconds 
+  Import took 0.456655 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
